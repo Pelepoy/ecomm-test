@@ -12,31 +12,40 @@ Start the server: Run npm run dev to start the server. The server will start on 
 
 **Documentation**
 
-_Product Listing_
+_Product Listing_:
+
 The product listing feature displays a list of all available products. Each product has a name, price, image, and description. The product data is fetched from a MongoDB database using Mongoose.
 
-_Product Details_
+_Product Details_:
+
 The product details feature shows detailed information about a product when a user clicks on a product from the product listing. The product details include the product's name, price, image, description, and available stock.
 
-_Cart Functionality_
+_Cart Functionality_:
+
 The cart functionality allows users to add products to a cart. Users can specify the quantity of each product they want to add. The cart data is stored in a Redux state and persists across different pages of the app.
 
 **Future Improvements**
 
-User Authentication:
+_User Authentication_:
+
 Implement a robust user authentication system, enabling users to register and log in securely. This will involve securely storing and managing user data.
 
-Admin Features:
+_Admin Features_:
+
 Develop an administrative interface that allows privileged users to manage product listings, including the ability to add, edit, and delete products.
 
-User Roles:
+_User Roles_:
+
 Establish distinct user roles, with regular users having the ability to add products to their cart, and administrative users having the ability to manage product listings.
 
-Shipping:
+_Shipping_:
+
 Incorporate a comprehensive shipping feature, allowing users to input their shipping address and select a preferred shipping method during checkout. The system should automatically calculate and apply shipping costs based on the selected method.
 
-Rating and Review System:
+_Rating and Review System_:
+
 Introduce a product rating and review system, enabling users to provide feedback on their purchases. This will enhance the shopping experience for other users and provide valuable insights for product improvement.
 
-Product Recommendation System:
+_Product Recommendation System_:
+
 Develop a product recommendation system that suggests products to users based on their purchase history. This could leverage machine learning algorithms to analyze user behavior and suggest products that align with their preferences.

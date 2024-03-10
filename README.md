@@ -1,6 +1,6 @@
 **E-commerce Store**
 
-This project is a full-stack e-commerce store built with Node.js, Express, React, and Redux. It includes features such as product listing, product details, and cart functionality.
+This project is a full-stack e-commerce store built with Node.js[v20.11.0], Express, React[18.2.0], and Redux. It includes features such as product listing, product details, and cart functionality.
 
 **Setup**
 

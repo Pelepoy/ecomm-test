@@ -3,6 +3,7 @@
 This project is a full-stack e-commerce store built with Node.js, Express, React, and Redux. It includes features such as product listing, product details, and cart functionality.
 
 **Setup**
+
 Clone the repository: Use the command git clone <repository-url> to clone the repository to your local machine.
 
 Install dependencies: Navigate to the project directory (root and frontend) and run npm install to install all the necessary dependencies.
@@ -10,6 +11,7 @@ Install dependencies: Navigate to the project directory (root and frontend) and 
 Start the server: Run npm run dev to start the server. The server will start on http://localhost:3000 by default.
 
 **Documentation**
+
 _Product Listing_
 The product listing feature displays a list of all available products. Each product has a name, price, image, and description. The product data is fetched from a MongoDB database using Mongoose.
 

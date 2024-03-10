@@ -22,20 +22,21 @@ _Cart Functionality_
 The cart functionality allows users to add products to a cart. Users can specify the quantity of each product they want to add. The cart data is stored in a Redux state and persists across different pages of the app.
 
 **Future Improvements**
-_User Authentication: _
+
+User Authentication:
 Implement a robust user authentication system, enabling users to register and log in securely. This will involve securely storing and managing user data.
 
-_Admin Features: _
+Admin Features:
 Develop an administrative interface that allows privileged users to manage product listings, including the ability to add, edit, and delete products.
 
-_User Roles: _
+User Roles:
 Establish distinct user roles, with regular users having the ability to add products to their cart, and administrative users having the ability to manage product listings.
 
-_Shipping: _
+Shipping:
 Incorporate a comprehensive shipping feature, allowing users to input their shipping address and select a preferred shipping method during checkout. The system should automatically calculate and apply shipping costs based on the selected method.
 
-_Rating and Review System: _
+Rating and Review System:
 Introduce a product rating and review system, enabling users to provide feedback on their purchases. This will enhance the shopping experience for other users and provide valuable insights for product improvement.
 
-_Product Recommendation System: _
+Product Recommendation System:
 Develop a product recommendation system that suggests products to users based on their purchase history. This could leverage machine learning algorithms to analyze user behavior and suggest products that align with their preferences.
